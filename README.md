@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mari-Montenegro
 - 🌱 I’m currently learning ...
-
+- 18 anos
+- CEEP
 
 <!---
 Mari-Montenegro/Mari-Montenegro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
